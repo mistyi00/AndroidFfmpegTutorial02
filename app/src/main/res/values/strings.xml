@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AndroidFfmpegTutorial02</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="editNumOfFrames_hint">No. of frames to grab</string>
+    <string name="buttonStart_text">Start</string>
+</resources>
